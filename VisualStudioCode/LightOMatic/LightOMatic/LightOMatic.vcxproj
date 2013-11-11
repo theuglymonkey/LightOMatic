@@ -79,11 +79,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="MicroComSerial.h" />
-    <ClInclude Include="Serial.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MicroComSerial.cpp" />
-    <ClCompile Include="Serial.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
